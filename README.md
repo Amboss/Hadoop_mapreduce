@@ -23,8 +23,8 @@ Learn more about the data source [*here*][1]
 9. *Initiating application*.
 
 [1]:https://registry.opendata.aws/nyc-tlc-trip-records-pds/
-[2]:https://github.com/Amboss/portfolio_projects/blob/master/hadoop_mapreduce/data/dawnload_s3_data.sh
-[3]:https://github.com/Amboss/portfolio_projects/blob/master/hadoop_mapreduce/script/mapper.py
-[4]:https://github.com/Amboss/portfolio_projects/blob/master/hadoop_mapreduce/script/reducer.py
-[5]:https://github.com/Amboss/portfolio_projects/blob/master/hadoop_mapreduce/script/run.sh
-[6]:https://github.com/Amboss/portfolio_projects/blob/master/hadoop_mapreduce/script/Makefile
+[2]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/data/dawnload_s3_data.sh
+[3]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/mapper.py
+[4]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/reducer.py
+[5]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/run.sh
+[6]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/Makefile
