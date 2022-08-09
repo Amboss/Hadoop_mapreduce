@@ -22,9 +22,9 @@ Learn more about the data source [*here*][1]
 8. [*Uploading script*][6] to remote server `make copy`.
 9. *Initiating application*.
 
-[1]:https://registry.opendata.aws/nyc-tlc-trip-records-pds/
-[2]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/data/dawnload_s3_data.sh
-[3]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/mapper.py
-[4]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/reducer.py
-[5]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/run.sh
-[6]:https://github.com/Amboss/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/Makefile
+[1]: https://registry.opendata.aws/nyc-tlc-trip-records-pds/
+[2]: https://github.com/s-evsyukov/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/data/dawnload_s3_data.sh
+[3]: https://github.com/s-evsyukov/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/mapper.py
+[4]: https://github.com/s-evsyukov/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/reducer.py
+[5]: https://github.com/s-evsyukov/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/run.sh
+[6]: https://github.com/s-evsyukov/hadoop_mapreduce/blob/8913e3b4c4a90bf085e9a9b02c0b8a47674f4ab2/script/Makefile
